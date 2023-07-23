@@ -1,9 +1,9 @@
-### ArduinoTraining
+# ArduinoTraining
 
 ## Software Links
 
-# Processing
+### Processing
 https://processing.org/download 
 
-# Arduino IDE
-[https://processing.org/download ](https://www.arduino.cc/en/software)https://www.arduino.cc/en/software
+### Arduino IDE
+https://www.arduino.cc/en/software

@@ -11,6 +11,10 @@ https://www.arduino.cc/en/software
 
 
 
+
+## Thermistor NTC Calc
+
+
 double tempK = log(known_resistor_ohm * ((known_Vcc / analogInput_voltage - 1)));
 
 tempK = 1 / (0.001129148 + (0.000234125 + (0.0000000876741 * tempK * tempK )) * tempK );    // Temp Kelvin  
